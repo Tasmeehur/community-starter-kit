@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The project helps newcomers to understand automated framework.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Automates message
+2. Welcomes people
+3. Creates repo to make sense of how all this works i.e. probot works
 
 ## Getting started
 
